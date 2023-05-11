@@ -18,3 +18,4 @@
 
 ### Feel free to contact us immediately for KYC service
 - Telegram: https://t.me/defimoonorg
+- E-mail: hello@defimoon.org
